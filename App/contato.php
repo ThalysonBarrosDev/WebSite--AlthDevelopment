@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Alth Development - Contato</title>
-    <link rel="icon" href="Assets/img/favicon.ico" type="image/x-icon">
-    <link href="Assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="Assets/ionicons/css/ionicons.min.css" rel="stylesheet">
-    <link href="Assets/css/style.css" rel="stylesheet">
-    <script src="Assets/js/modernizr.js"></script>
+    <link rel="icon" href="../Assets/img/favicon.ico" type="image/x-icon">
+    <link href="../Assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../Assets/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="../Assets/css/style.css" rel="stylesheet">
+    <script src="../Assets/js/modernizr.js"></script>
 </head>
 
 <body>
@@ -57,7 +57,7 @@
 
     <div class="top-bar">
         <h1>Contato</h1>
-        <p><a href="index.php">Home</a> / Contato</p>
+        <p><a href="../index.php">Home</a> / Contato</p>
     </div>
 
     <div class="container main-container">
@@ -122,12 +122,12 @@
 
     <a href="#0" class="cd-top"><i class="ion-android-arrow-up"></i></a>
 
-    <script src="Assets/js/jquery-2.1.1.js"></script>
-    <script src="Assets/js/bootstrap.min.js"></script>
-    <script src="Assets/js/menu.js"></script>
-    <script src="Assets/js/animated-headline.js"></script>
-    <script src="Assets/js/isotope.pkgd.min.js"></script>
-    <script src="Assets/js/custom.js"></script>
+    <script src="../Assets/js/jquery-2.1.1.js"></script>
+    <script src="../Assets/js/bootstrap.min.js"></script>
+    <script src="../Assets/js/menu.js"></script>
+    <script src="../Assets/js/animated-headline.js"></script>
+    <script src="../Assets/js/isotope.pkgd.min.js"></script>
+    <script src="../Assets/js/custom.js"></script>
 
 </body>
 

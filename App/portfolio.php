@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Alth Development - Portfólio</title>
-    <link rel="icon" href="Assets/img/favicon.ico" type="image/x-icon">
-    <link href="Assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="Assets/ionicons/css/ionicons.min.css" rel="stylesheet">
-    <link href="Assets/css/style.css" rel="stylesheet">
-    <script src="Assets/js/modernizr.js"></script>
+    <link rel="icon" href="../Assets/img/favicon.ico" type="image/x-icon">
+    <link href="../Assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../Assets/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="../Assets/css/style.css" rel="stylesheet">
+    <script src="../Assets/js/modernizr.js"></script>
 </head>
 
 <body>
@@ -58,7 +58,7 @@
 
     <div class="top-bar">
         <h1>portfólio</h1>
-        <p><a href="index.php">Home</a> / Portfólio</p>
+        <p><a href="../index.php">Home</a> / Portfólio</p>
     </div>
 
     <div class="main-container portfolio-inner clearfix">
@@ -82,7 +82,7 @@
 
                     <div class="col-md-4 col-sm-6  sites logo">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="Assets/img/portfolio/01.png" alt="image" class="img-responsive" />
+                            <img src="../Assets/img/portfolio/01.png" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -96,7 +96,7 @@
 
                     <div class="col-md-4 col-sm-6 lgpd graphics">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="Assets/img/portfolio/05.png" alt="image" class="img-responsive" />
+                            <img src="../Assets/img/portfolio/05.png" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -110,7 +110,7 @@
  
                     <div class="col-md-4 col-sm-12 aplicativos">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="Assets/img/portfolio/02.png" alt="image" class="img-responsive" />
+                            <img src="../Assets/img/portfolio/02.png" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -124,7 +124,7 @@
 
                     <div class="col-md-4 col-sm-6 sistemas ads">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="Assets/img/portfolio/03.png" alt="image" class="img-responsive" />
+                            <img src="../Assets/img/portfolio/03.png" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -138,7 +138,7 @@
  
                     <div class="col-md-4 col-sm-6 bi ads">
                         <a href="single-project.html" class="portfolio_item">
-                            <img src="Assets/img/portfolio/04.jpeg" alt="image" class="img-responsive" />
+                            <img src="../Assets/img/portfolio/04.jpeg" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
@@ -163,12 +163,12 @@
 
     <a href="#0" class="cd-top"><i class="ion-android-arrow-up"></i></a>
 
-    <script src="Assets/js/jquery-2.1.1.js"></script>
-    <script src="Assets/js/bootstrap.min.js"></script>
-    <script src="Assets/js/menu.js"></script>
-    <script src="Assets/js/animated-headline.js"></script>
-    <script src="Assets/js/isotope.pkgd.min.js"></script>
-    <script src="Assets/js/custom.js"></script>
+    <script src="../Assets/js/jquery-2.1.1.js"></script>
+    <script src="../Assets/js/bootstrap.min.js"></script>
+    <script src="../Assets/js/menu.js"></script>
+    <script src="../Assets/js/animated-headline.js"></script>
+    <script src="../Assets/js/isotope.pkgd.min.js"></script>
+    <script src="../Assets/js/custom.js"></script>
 
 </body>
 
