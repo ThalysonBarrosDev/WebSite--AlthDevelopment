@@ -28,7 +28,7 @@
 
         <header class="box-header">
             <div class="box-logo">
-                <a href="index.php" style="color: #393939; font-size: 19px;">ALTH DEVELOPMENT</a>
+                <a href="../index.php" style="color: #393939; font-size: 19px;">ALTH DEVELOPMENT</a>
             </div>
 
             <a class="box-primary-nav-trigger" href="#0">
@@ -40,7 +40,7 @@
             <ul class="box-primary-nav">
                 <li class="box-label">Navegação</li>
 
-                <li><a href="index.php">Inicio</a></li>
+                <li><a href="../index.php">Inicio</a></li>
                 <li><a href="sobre.php">Sobre</a></li>
                 <li><a href="servicos.php">Serviços</a></li>
                 <li><a href="contato.php">Contato</a></li>
@@ -62,7 +62,7 @@
 
     <div class="container main-container">
         <div class="col-md-6">
-            <form action="Views/contatoEnviado.php" method="POST">
+            <form action="../Views/contatoEnviado.php" method="POST">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="input-contact">
