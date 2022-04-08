@@ -41,9 +41,9 @@
                 <li class="box-label">Navegação</li>
 
                 <li><a href="index.php">Inicio</a></li>
-                <li><a href="sobre.php">Sobre</a></li>
-                <li><a href="servicos.php">Serviços</a></li>
-                <li><a href="contato.php">Contato</a></li>
+                <li><a href="App/sobre.php">Sobre</a></li>
+                <li><a href="App/servicos.php">Serviços</a></li>
+                <li><a href="App/contato.php">Contato</a></li>
 
                 <li class="box-label">Redes Sociais</li>
 
