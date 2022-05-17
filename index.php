@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Alth Development - Home</title>
-    <link rel="icon" href="Assets/img/favicon.ico" type="image/x-icon">
-    <link href="Assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="Assets/ionicons/css/ionicons.min.css" rel="stylesheet">
-    <link href="Assets/css/style.css" rel="stylesheet">
-    <script src="Assets/js/modernizr.js"></script>
+    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <script src="assets/js/modernizr.js"></script>
 </head>
 
 <body>
@@ -41,9 +41,9 @@
                 <li class="box-label">Navegação</li>
 
                 <li><a href="index.php">Inicio</a></li>
-                <li><a href="App/sobre.php">Sobre</a></li>
-                <li><a href="App/servicos.php">Serviços</a></li>
-                <li><a href="App/contato.php">Contato</a></li>
+                <li><a href="views/sobre.php">Sobre</a></li>
+                <li><a href="views/servicos.php">Serviços</a></li>
+                <li><a href="views/contato.php">Contato</a></li>
 
                 <li class="box-label">Redes Sociais</li>
 
@@ -80,12 +80,12 @@
 
     <a href="#0" class="cd-top"><i class="ion-android-arrow-up"></i></a>
 
-    <script src="Assets/js/jquery-2.1.1.js"></script>
-    <script src="Assets/js/bootstrap.min.js"></script>
-    <script src="Assets/js/menu.js"></script>
-    <script src="Assets/js/animated-headline.js"></script>
-    <script src="Assets/js/isotope.pkgd.min.js"></script>
-    <script src="Assets/js/custom.js"></script>
+    <script src="assets/js/jquery-2.1.1.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/menu.js"></script>
+    <script src="assets/js/animated-headline.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/custom.js"></script>
 
 </body>
 
